@@ -33,10 +33,6 @@ Tech: PHP, CSS, Firebase, Docker
 > A platform to manage student's stranscript for lectures.
 Tech: Golang, Docker, Docker-compose, MongoDB
 
-### 🔹 [Grade-portal-Services](https://github.com/dath-241/grade-portal-be-go-2)
-> A hospital management platform for scheduling, patient tracking, and more.  
-Tech: Golang, Docker, Docker-compose, MongoDB
-
 ### 🔹 [Smart Farm Dashboard](https://github.com/Nguyentrongkha2k4/YoloFarm)
 > Realtime dashboard to monitor and control IoT-based smart farms.  
 Tech: ReactJS, WebSocket, Java Spring boot
