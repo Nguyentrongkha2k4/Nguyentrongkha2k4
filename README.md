@@ -48,7 +48,7 @@ Tech: ReactJS, WebSocket, Java Spring boot
 ## 📫 Contact Me
 
 - Email: trongkha08022k4@gmail.com
-- LinkedIn: [linkedin.com/in/kha-nguyễn-trọng-a13b2933a](https://www.linkedin.com/in/kha-nguy%E1%BB%85n-tr%E1%BB%8Dng-a13b2933a/)
+- LinkedIn: [kha-nguyễn-trọng-a13b2933a](https://www.linkedin.com/in/kha-nguy%E1%BB%85n-tr%E1%BB%8Dng-a13b2933a/)
 - Portfolio Website: [kei-nguyen-portfolio](https://kei-nguyen-portfolio.vercel.app/)
 
 ---
