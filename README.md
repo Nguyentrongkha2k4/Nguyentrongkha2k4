@@ -16,10 +16,10 @@
 ## 🛠️ Tech Stack
 
 - **Languages**: Java, Go, JavaScript, PHP, C/C++
-- **Frameworks**: Spring Boot, ReactJS, Node.js
+- **Frameworks**: Spring Boot, ReactJS, NodeJS
 - **DevOps**: Docker, GitHub Actions, Azure DevOps
-- **Databases**: MySQL, PostgreSQL, Firebase, Oracle
-- **Tools**: VS Code, IntelliJ, Postman, Figma
+- **Databases**: MySQL, PostgreSQL, Firebase, MongoDB
+- **Tools**: VS Code, IntelliJ, Postman, Figma, Swagger
 
 ---
 
