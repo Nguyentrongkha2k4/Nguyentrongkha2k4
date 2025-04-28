@@ -7,7 +7,7 @@
 
 ## 🧠 About Me
 
-- 💻 I'm currently studying at Ho Chi Minh city University of Technology.
+- 💻 I'm currently studying at Ho Chi Minh city University of Technology - VNU.
 - 🌱 Currently learning: `Angular`, `Kubernetes`, and `GraphQL`
 - 🎯 Interested in: Software Engineering, DevOps, and Fullstack Development
 
