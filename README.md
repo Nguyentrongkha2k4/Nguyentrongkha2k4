@@ -73,11 +73,11 @@ Tech: Golang, Docker, Docker-compose, MongoDB
 Tech: ReactJS, WebSocket, Java Spring boot
 
 ---
-
+<!--
 ## 📈 GitHub Stats
 
 ![Kha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nguyentrongkha2k4&show_icons=true&theme=radical)
-
+-->
 ---
 
 ## 📫 Contact Me
