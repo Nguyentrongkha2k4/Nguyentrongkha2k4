@@ -80,10 +80,14 @@ Tech: ReactJS, WebSocket, Java Spring boot
 -->
 ---
 
-### ⚡ GitHub Streak  
+## ⚡ GitHub Streak  
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=nguyentrongkha2k4&theme=radical&hide_border=true) 
 
+---
+## 🏆 Danh hiệu GitHub  
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nguyentrongkha2k4&theme=radical&no-frame=true&margin-w=15)  
 ---
 ## 📫 Contact Me
 
