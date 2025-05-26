@@ -80,6 +80,11 @@ Tech: ReactJS, WebSocket, Java Spring boot
 -->
 ---
 
+### ⚡ GitHub Streak  
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=nguyentrongkha2k4&theme=radical&hide_border=true) 
+
+---
 ## 📫 Contact Me
 
 - Email: trongkha08022k4@gmail.com
