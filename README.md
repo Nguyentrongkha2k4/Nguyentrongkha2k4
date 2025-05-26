@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kha! You can call me Kei Nguyen
+# 👋 Hi, I'm Nguyen Trong Kha — or just call me Kei Nguyen!
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=nguyentrongkha2k4&color=blue&style=flat)  
 <h4>
 🎓 I'm a 3rd-year Computer Science student at Ho Chi Minh City University of Technology (HCMUT). 
