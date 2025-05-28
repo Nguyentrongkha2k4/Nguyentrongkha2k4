@@ -76,6 +76,10 @@ Tech: Golang, Docker, Docker-compose, MongoDB
 > Realtime dashboard to monitor and control IoT-based smart farms.  
 Tech: ReactJS, WebSocket, Java Spring boot
 
+### 🔹 [BananaHRM](https://github.com/Nguyentrongkha2k4/BananaHRM)
+> A system for hr to manage human resources.  
+Tech: Java Spring Boot, Nextjs, MySQL, Redis.
+
 ---
 <!--
 ## 📈 GitHub Stats
