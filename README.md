@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nguyen Trong Kha — or just call me Kei Nguyen!
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=nguyentrongkha2k4&color=blue&style=flat)  
 <h4>
-🎓 I'm a 3rd-year Computer Science student at Ho Chi Minh City University of Technology (HCMUT). 
+🎓 I'm a 4th-year Computer Science student at Ho Chi Minh City University of Technology (HCMUT). 
   <br/>
 🚀 I'm passionate about software development, DevOps, and building real-world tech solutions.
 </h4>
@@ -11,7 +11,7 @@
 ## 🧠 About Me
 <h4>
 💻 I'm currently studying at Ho Chi Minh city University of Technology - VNU.  <br/>
-🌱 Currently learning: `Angular`, `Kubernetes`, and `GraphQL`.  <br/>
+🌱 Currently learning: `Nodejs`, `Kubernetes`, and `C#`.  <br/>
 🎯 Interested in: Software Engineering, DevOps, and Fullstack Development.  <br/>
 </h4>
 
