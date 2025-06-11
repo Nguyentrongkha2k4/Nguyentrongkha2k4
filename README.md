@@ -11,7 +11,7 @@
 ## 🧠 About Me
 <h4>
 💻 I'm currently studying at Ho Chi Minh city University of Technology - VNU.  <br/>
-🌱 Currently learning: `n8n`, `Kubernetes`, and `C#`.  <br/>
+🌱 Currently learning: `Kubernetes`, and `.NET`.  <br/>
 🎯 Interested in: Software Engineering, DevOps, and Fullstack Development.  <br/>
 </h4>
 
